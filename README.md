@@ -3,12 +3,12 @@
 Nesta base de dados, foram registradas as seguintes informações para cada funcionário: Idade, Gênero, Nível de Formação, Cargo, Tempo de Experiência e Salário.
 
 <h2>1. Objetivos</h2>: A empresa/grupo deseja obter uma visão abrangente das informações disponíveis e, portanto, apresenta as seguintes perguntas:
-I. Quais informações possuem uma correlação forte com o salário?
-II. Como o salário se distribui em relação a:
+<p>I. Quais informações possuem uma correlação forte com o salário?</p>
+<p>II. Como o salário se distribui em relação a:
    1. Nível de Formação (Homem/Mulher)
-   2. Nível de Cargo
-III. Quais são os cargos com os salários mais baixos e mais altos?
-IV. Qual é a distribuição do nível de formação em relação aos diferentes cargos?
+   2. Nível de Cargo</p>
+<p>III. Quais são os cargos com os salários mais baixos e mais altos?</p>
+<p>IV. Qual é a distribuição do nível de formação em relação aos diferentes cargos?</p>
 
 Com os objetivos definidos (1), foram realizadas as demais etapas essênciais para uma análise de dados:
 <h2>2.Coleta:</h2>
