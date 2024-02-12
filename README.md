@@ -19,5 +19,5 @@ Com os objetivos definidos (1), foram realizadas as demais etapas essênciais pa
 <p>Com a base já padronizada e limpa, já é possível verificar as informações e estabelecer interpretações.</p>
 <p>A biblioteca Pandas foi bastante utilizada para fazer agrupamentos e categorizar os dados</p>
 <h2>5. Apresentação</h2>
-<p>Foram plotados alguns gráficos com base nos parâmetros e categorias estabelecidas, garantindo uma visualização melhor e com uso de Storytelling.</p>
+<p>Foram plotados alguns gráficos com base nos parâmetros e categorias estabelecidas, garantindo uma visualização melhor e possibilitando um Storytelling.</p>
 
